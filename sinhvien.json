@@ -1,0 +1,33 @@
+[
+	
+	{
+		"ten":"Teo",
+		"tuoi":20,
+		"toan":7,
+		"TiengAnh":8,
+		"laptrinh":9,
+		"diemTB":null,
+		"totnghiep":null,
+		"lienlac":{"email":"Teo@gmail.com","phone":"0999.321"}
+	},
+	{
+		"ten":"Te",
+		"tuoi":20,
+		"toan":6,
+		"TiengAnh":7,
+		"laptrinh":8,
+		"diemTB":null,
+		"totnghiep":null,
+		"lienlac":{"email":"Te@gmail.com","phone":"0999.321"}
+	},
+	{
+		"ten":"T",
+		"tuoi":20,
+		"toan":5,
+		"TiengAnh":9,
+		"laptrinh":10,
+		"diemTB":null,
+		"totnghiep":null,
+		"lienlac":{"email":"T@gmail.com","phone":"0999.321"}
+	}
+]
